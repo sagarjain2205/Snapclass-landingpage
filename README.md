@@ -8,7 +8,7 @@
 
 [![🌐 Landing Page](https://img.shields.io/badge/🌐%20Landing%20Page-Visit%20Now-00C7B7?style=for-the-badge&logo=vercel)](https://snapclass-landingpage-mu.vercel.app)
 
-[![🚀 Live Website](https://img.shields.io/badge/🚀%20Live%20Website-snapclass-5865F2?style=for-the-badge&logoColor=white)](https://snapclass.onrender.com)
+[![🚀 Live Website](https://img.shields.io/badge/🚀%20Live%20Website-snapclass-5865F2?style=for-the-badge&logoColor=white)](https://snapclassattendance.streamlit.app)
 [![📂 Main Project Repo](https://img.shields.io/badge/📂%20Main%20Repo-SnapClass-black?style=for-the-badge&logo=github)](https://github.com/sagarjain2205/SnapClass)
 ---
 
@@ -92,7 +92,7 @@ Then open `http://localhost:5000` in your browser.
 
 | | |
 |---|---|
-| 🌐 **Live App** | [snapclass.onrender.com](https://snapclass.onrender.com) |
+| 🌐 **Live App** | [snapclass.onrender.com](https://snapclassattendance.streamlit.app) |
 | 💻 **Main Repo** | [github.com/sagarjain2205/SnapClass](https://github.com/sagarjain2205/SnapClass) |
 | 🖥️ **Landing Page** | [snapclass-landingpage-mu.vercel.app](https://snapclass-landingpage-mu.vercel.app) |
 | 👤 **Developer** | [Sagar Jain](https://github.com/sagarjain2205) |
