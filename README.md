@@ -92,7 +92,7 @@ Then open `http://localhost:5000` in your browser.
 
 | | |
 |---|---|
-| 🌐 **Live App** | [snapclass.onrender.com](https://snapclassattendance.streamlit.app) |
+| 🌐 **Live App** | [snapclassattendance.stramlit.app](https://snapclassattendance.streamlit.app) |
 | 💻 **Main Repo** | [github.com/sagarjain2205/SnapClass](https://github.com/sagarjain2205/SnapClass) |
 | 🖥️ **Landing Page** | [snapclass-landingpage-mu.vercel.app](https://snapclass-landingpage-mu.vercel.app) |
 | 👤 **Developer** | [Sagar Jain](https://github.com/sagarjain2205) |
